@@ -125,11 +125,11 @@ Security events were correlated to identify abnormal patterns and generate alert
 
 ## Conclusion
 Project INSIGHT demonstrates how security monitoring, log correlation, and network segmentation can effectively detect unauthorized access attempts. By simulating real-world attack scenarios, the project highlights the importance of proactive monitoring and layered security controls in defending network infrastructure.
-[Read report](https://drive.google.com/file/d/1lS-hMsE97woT4LqBqOS1jS0NpYM171_0/view?usp=sharing)(https://drive.google.com/file/d/1puvGaKn2xGq5PerUyIoVjbFeQWaQKIR6/view?usp=sharing)
+[Read report](https://drive.google.com/file/d/16JTLSIiaOs-468JkyK5lwuOGXCXG-tcp/view?usp=sharing)
 ---
 
 ## Author
-Project Team — Cybersecurity Monitoring Lab
+Project Team — Cybersecurity Monitoring Lab [Read report](https://drive.google.com/file/d/1puvGaKn2xGq5PerUyIoVjbFeQWaQKIR6/view?usp=sharing)
 
 ---
 
