@@ -1,8 +1,4 @@
 # SOC in a Segmented Network
-BY
-IYABO UWADIAE
-ORGANIZATION – AGRODEFEND INC.
-
 
 ## Overview
 Project INSIGHT is a cybersecurity monitoring and detection project designed to identify and analyze unauthorized access attempts within a network environment. The project focuses on detecting brute-force login attempts, correlating security logs, and monitoring suspicious activities across a segmented network architecture including LAN and DMZ zones.
