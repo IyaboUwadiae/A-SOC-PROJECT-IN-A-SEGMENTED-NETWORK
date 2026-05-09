@@ -1,4 +1,4 @@
-# Project INSIGHT — Unauthorized Access Detection of a SOC Project in a Segmented Network
+# SOC in a Segmented Network
 BY
 IYABO UWADIAE
 ORGANIZATION – AGRODEFEND INC.
